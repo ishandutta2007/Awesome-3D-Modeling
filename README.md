@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg" alt="Open Source Love">
   <img src="https://img.shields.io/badge/Year-2026-blueviolet.svg" alt="Year 2026">
+  <br />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
 </p>
 
 # 🚀 Awesome 3D Modeling & Animation Ecosystem
