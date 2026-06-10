@@ -21,31 +21,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Proprietary / SaaS Platforms
 
-### Core 3D Tools
+These platforms provide professional-grade tools with varying pricing models. Most offer "Indie" licenses or "Free Tiers" for non-commercial use or learning.
 
-- **[Blender](https://www.blender.org/)** (open-source but listed for completeness)  
-  Complete 3D creation suite with modeling, sculpting, animation, simulation, and rendering.
+| Product | Pricing (Starting) | Free Tier Limit | Primary Use Case |
+| :--- | :--- | :--- | :--- |
+| **Spline** | ~$12/mo | Watermarked exports | Web & Interactive 3D |
+| **Womp 3D** | ~$9.99/mo | 300 daily AI credits | Browser-based / AI Modeling |
+| **Autodesk Fusion** | ~$545/yr | 10 active documents | CAD / Mechanical Engineering |
+| **Onshape** | ~$1,500/yr | Public documents only | Professional Cloud CAD |
+| **SketchUp** | ~$119/yr | Web-only / 10GB storage | Architecture / Concept Design |
+| **Vectary** | ~$15/mo | 10 projects / Branding | AR & Product Visualization |
+| **Shapr3D** | ~$299/yr | 2 active designs | iPad & Mobile-First CAD |
+| **SelfCAD** | ~$15/mo | Limited export formats | 3D Printing / Beginners |
+| **Clara.io** | ~$10/mo | 2GB Storage / 1hr Render | Cloud-based Modeling |
+| **Houdini** | $299/yr (Indie) | Apprentice (Watermarked) | VFX & Procedural Simulation |
+| **ZBrush** | ~$39.95/mo | Limited brushes / No export | Digital Sculpting |
+| **Cinema 4D** | ~$839/yr | Lite (via After Effects) | Motion Graphics & Design |
+| **Autodesk Maya** | ~$2,010/yr | Education only (Free) | Animation & Film Production |
+| **3ds Max** | ~$2,010/yr | Education only (Free) | ArchViz & Game Assets |
+| **Blender** | **$0** | **None** (Open Source) | General Purpose / VFX / Indie |
 
-- **[Autodesk Maya](https://www.autodesk.com/products/maya)**  
-  Industry-standard for 3D animation, character rigging, and visual effects in film and games.
-
-- **[Cinema 4D](https://www.maxon.net/en/cinema-4d)**  
-  Intuitive 3D modeling, animation, and rendering tool popular in motion graphics.
-
-- **[Autodesk 3ds Max](https://www.autodesk.com/products/3ds-max)**  
-  Powerful tool for architectural visualization, game assets, and complex 3D modeling.
-
-- **[Houdini](https://www.sidefx.com/products/houdini/)**  
-  Node-based procedural 3D tool renowned for VFX, simulations, and destruction effects.
-
-- **[ZBrush](https://www.maxon.net/en/zbrush)**  
-  Leading digital sculpting tool for high-detail character and creature creation.
-
-- **[Modo](https://www.foundry.com/products/modo)**  
-  Fast and artist-friendly 3D modeling and animation software.
-
-- **[LightWave 3D](https://lightwave3d.com/)**  
-  Long-standing tool for modeling, animation, and rendering with strong procedural capabilities.
+*Note: Pricing and limits are based on 2026 market data. "Indie" licenses typically apply to creators earning less than $100k/year.*
 
 ## Open-Source GitHub Projects
 
