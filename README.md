@@ -86,7 +86,7 @@ The heart of the community. These **open-source 3D tools** offer full customizat
   Create realistic 3D human characters in minutes.
 - **[SculptGL](https://github.com/stephomi/sculptgl)** [![GitHub stars](https://img.shields.io/github/stars/stephomi/sculptgl?style=social&color=white)](https://github.com/stephomi/sculptgl/stargazers) 🗿 — Browser-based 3D sculpting.
 - **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers) 💡 — High-performance physically based renderer.
-- **[Wings 3D](https://github.com/wings3d/wings)** [![GitHub stars](https://img.shields.io/github/stars/wings3d/wings?style=social&color=white)](https://github.com/wings3d/wings/stargazers) 🕊️  
+- **[Wings 3D](https://github.com/dgud/wings)** [![GitHub stars](https://img.shields.io/github/stars/dgud/wings?style=social&color=white)](https://github.com/dgud/wings/stargazers) 🕊️  
   Lightweight polygon modeler with advanced subdivision tools.
 
 ---
