@@ -72,27 +72,22 @@ Discover the best professional-grade tools. This section compares **SaaS pricing
 
 The heart of the community. These **open-source 3D tools** offer full customization, no licensing fees, and creative freedom.
 
-### 🛠️ Dedicated 3D Modeling & Animation Tools
-
-- **[Blender](https://github.com/blender/blender)** 🌟  
-  The industry giant. Modeling, sculpting, animation, rigging, simulation, and world-class rendering (Cycles & Eevee).
-- **[Wings 3D](https://github.com/wings3d/wings)** 🕊️  
-  Lightweight polygon modeler with advanced subdivision tools.
-- **[Godot Engine](https://github.com/godotengine/godot)** 🎮  
+- **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) 🎮  
   Full game engine with robust 3D modeling and animation capabilities.
-- **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** 🏗️  
+- **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) 🏗️  
   Parametric 3D CAD modeler with strong animation and simulation extensions.
-- **[OpenSCAD](https://github.com/openscad/openscad)** 💻  
+- **[Blender](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🌟  
+  The industry giant. Modeling, sculpting, animation, rigging, simulation, and world-class rendering (Cycles & Eevee).
+- **[Meshroom](https://github.com/alicevision/meshroom)** [![GitHub stars](https://img.shields.io/github/stars/alicevision/meshroom?style=social&color=white)](https://github.com/alicevision/meshroom/stargazers) 📸 — Photogrammetry for 3D reconstruction.
+- **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers) 💻  
   The programmer's solid 3D CAD modeler.
-- **[MakeHuman](https://github.com/makehumancommunity/makehuman)** 👤  
+- **[Blockbench](https://github.com/JannisX11/blockbench)** [![GitHub stars](https://img.shields.io/github/stars/JannisX11/blockbench?style=social&color=white)](https://github.com/JannisX11/blockbench/stargazers) 🧊 — Low-poly modeling for game assets.
+- **[MakeHuman](https://github.com/makehumancommunity/makehuman)** [![GitHub stars](https://img.shields.io/github/stars/makehumancommunity/makehuman?style=social&color=white)](https://github.com/makehumancommunity/makehuman/stargazers) 👤  
   Create realistic 3D human characters in minutes.
-
-### 🎨 Specialized Open-Source Options
-
-- **[SculptGL](https://github.com/stephomi/sculptgl)** 🗿 — Browser-based 3D sculpting.
-- **[Meshroom](https://github.com/alicevision/meshroom)** 📸 — Photogrammetry for 3D reconstruction.
-- **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** 💡 — High-performance physically based renderer.
-- **[Blockbench](https://github.com/JannisX11/blockbench)** 🧊 — Low-poly modeling for game assets.
+- **[SculptGL](https://github.com/stephomi/sculptgl)** [![GitHub stars](https://img.shields.io/github/stars/stephomi/sculptgl?style=social&color=white)](https://github.com/stephomi/sculptgl/stargazers) 🗿 — Browser-based 3D sculpting.
+- **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers) 💡 — High-performance physically based renderer.
+- **[Wings 3D](https://github.com/wings3d/wings)** [![GitHub stars](https://img.shields.io/github/stars/wings3d/wings?style=social&color=white)](https://github.com/wings3d/wings/stargazers) 🕊️  
+  Lightweight polygon modeler with advanced subdivision tools.
 
 ---
 
