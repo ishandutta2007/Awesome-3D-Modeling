@@ -28,12 +28,10 @@
 
     @keyframes pulseGlow {
       0%, 100% {
-        opacity: 0.9;
         filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.15));
       }
       50% {
-        opacity: 1;
-        filter: drop-shadow(0 4px 12px rgba(255, 255, 255, 0.8));
+        filter: drop-shadow(0 4px 10px rgba(127, 0, 255, 0.35));
       }
     }
 
@@ -78,7 +76,7 @@
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-size: 46px;
       font-weight: 900;
-      fill: #ffffff;
+      fill: #0c183b; /* Highly readable deep indigo */
       letter-spacing: 2px;
       animation: pulseGlow 3s ease-in-out infinite;
     }
@@ -86,10 +84,10 @@
     .subtitle-text {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-size: 16px;
-      font-weight: 500;
-      fill: #ffffff;
-      fill-opacity: 0.9;
-      letter-spacing: 1px;
+      font-weight: 600;
+      fill: #1a2c5b; /* Darker slate for perfect contrast */
+      fill-opacity: 0.95;
+      letter-spacing: 0.5px;
     }
 
     /* 3D Shapes Styling */
