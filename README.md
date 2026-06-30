@@ -40,23 +40,23 @@ Whether you are an indie artist, a game developer, or a VFX professional, this l
 
 Discover the best professional-grade tools. This section compares **SaaS pricing models**, **free tiers**, and **Indie licenses** to help you choose the right software for your budget.
 
-| Product | Pricing (Starting) | Free Tier Limit | Primary Use Case |
-| :--- | :--- | :--- | :--- |
-| **Spline** | ~$12/mo | Watermarked exports | Web & Interactive 3D 🌐 |
-| **Womp 3D** | ~$9.99/mo | 300 daily AI credits | Browser-based / AI Modeling 🤖 |
-| **Autodesk Fusion** | ~$545/yr | 10 active documents | CAD / Mechanical ⚙️ |
-| **Onshape** | ~$1,500/yr | Public documents only | Professional Cloud CAD ☁️ |
-| **SketchUp** | ~$119/yr | Web-only / 10GB storage | Architecture 🏠 |
-| **Vectary** | ~$15/mo | 10 projects / Branding | AR & E-commerce 🕶️ |
-| **Shapr3D** | ~$299/yr | 2 active designs | iPad & Mobile CAD 📱 |
-| **SelfCAD** | ~$15/mo | Limited export formats | 3D Printing / Beginners 🖨️ |
-| **Clara.io** | ~$10/mo | 2GB Storage / 1hr Render | Cloud Modeling ☁️ |
-| **Houdini** | $299/yr (Indie) | Apprentice (Watermarked) | VFX & Simulation 💥 |
-| **ZBrush** | ~$39.95/mo | Limited brushes / No export | Digital Sculpting 🗿 |
-| **Cinema 4D** | ~$839/yr | Lite (via After Effects) | Motion Graphics 🎬 |
-| **Autodesk Maya** | ~$2,010/yr | Education only (Free) | Animation & Film 🎞️ |
-| **3ds Max** | ~$2,010/yr | Education only (Free) | ArchViz & Game Assets 🎮 |
-| **Blender** | **$0** | **None** (Open Source) | General Purpose / VFX 🌟 |
+| Product | Pricing (Starting) | Free Tier Limit | Company Size (Est. Revenue) | Primary Use Case |
+| :--- | :--- | :--- | :--- | :--- |
+| **Autodesk Maya** | ~$2,010/yr | Education only (Free) | ~$7.2B (Autodesk) | Animation & Film 🎞️ |
+| **3ds Max** | ~$2,010/yr | Education only (Free) | ~$7.2B (Autodesk) | ArchViz & Game Assets 🎮 |
+| **Autodesk Fusion** | ~$545/yr | 10 active documents | ~$7.2B (Autodesk) | CAD / Mechanical ⚙️ |
+| **SketchUp** | ~$119/yr | Web-only / 10GB storage | ~$3.59B (Trimble) | Architecture 🏠 |
+| **Onshape** | ~$1,500/yr | Public documents only | ~$2.74B (PTC) | Professional Cloud CAD ☁️ |
+| **Cinema 4D** | ~$839/yr | Lite (via After Effects) | ~$1.27B (Nemetschek/Maxon) | Motion Graphics 🎬 |
+| **ZBrush** | ~$39.95/mo | Limited brushes / No export | ~$1.27B (Nemetschek/Maxon) | Digital Sculpting 🗿 |
+| **Clara.io** | ~$10/mo | 2GB Storage / 1hr Render | ~$21M (ThreeKit) | Cloud Modeling ☁️ |
+| **Houdini** | $299/yr (Indie) | Apprentice (Watermarked) | ~$40M (SideFX) | VFX & Simulation 💥 |
+| **Shapr3D** | ~$299/yr | 2 active designs | ~$15M (Shapr3D) | iPad & Mobile CAD 📱 |
+| **Spline** | ~$12/mo | Watermarked exports | ~$5M (Spline) | Web & Interactive 3D 🌐 |
+| **Blender** | **$0** | **None** (Open Source) | ~$3.3M (Blender Foundation) | General Purpose / VFX 🌟 |
+| **Vectary** | ~$15/mo | 10 projects / Branding | ~$3.2M (Vectary) | AR & E-commerce 🕶️ |
+| **Womp 3D** | ~$9.99/mo | 300 daily AI credits | ~$1M (Womp) | Browser-based / AI Modeling 🤖 |
+| **SelfCAD** | ~$15/mo | Limited export formats | ~$1M (SelfCAD) | 3D Printing / Beginners 🖨️ |
 
 > 💡 *Note: Pricing and limits are based on 2026 market data. "Indie" licenses typically apply to creators earning less than $100k/year.*
 
