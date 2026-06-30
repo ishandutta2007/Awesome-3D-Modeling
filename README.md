@@ -53,7 +53,6 @@ Discover the best professional-grade tools. This section compares **SaaS pricing
 | **Houdini** | $299/yr (Indie) | Apprentice (Watermarked) | ~$40M (SideFX) | VFX & Simulation 💥 |
 | **Shapr3D** | ~$299/yr | 2 active designs | ~$15M (Shapr3D) | iPad & Mobile CAD 📱 |
 | **Spline** | ~$12/mo | Watermarked exports | ~$5M (Spline) | Web & Interactive 3D 🌐 |
-| **Blender** | **$0** | **None** (Open Source) | ~$3.3M (Blender Foundation) | General Purpose / VFX 🌟 |
 | **Vectary** | ~$15/mo | 10 projects / Branding | ~$3.2M (Vectary) | AR & E-commerce 🕶️ |
 | **Womp 3D** | ~$9.99/mo | 300 daily AI credits | ~$1M (Womp) | Browser-based / AI Modeling 🤖 |
 | **SelfCAD** | ~$15/mo | Limited export formats | ~$1M (SelfCAD) | 3D Printing / Beginners 🖨️ |
