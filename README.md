@@ -56,6 +56,7 @@ Discover the best professional-grade tools. This section compares **SaaS pricing
 | **Vectary** | ~$15/mo | 10 projects / Branding | ~$3.2M (Vectary) | AR & E-commerce 🕶️ |
 | **Womp 3D** | ~$9.99/mo | 300 daily AI credits | ~$1M (Womp) | Browser-based / AI Modeling 🤖 |
 | **SelfCAD** | ~$15/mo | Limited export formats | ~$1M (SelfCAD) | 3D Printing / Beginners 🖨️ |
+| **[Prompt2CAD](https://prompt2cad.com)** | Free to start / credits | Free starter credits | Early-stage | AI CAD / Text-to-CAD ⚙️ |
 
 > 💡 *Note: Pricing and limits are based on 2026 market data. "Indie" licenses typically apply to creators earning less than $100k/year.*
 
